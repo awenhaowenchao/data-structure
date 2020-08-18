@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f64259d-3bf4-4c8b-8725-4c0a147ec082" name="Default Changelist" comment="1，补充readme.md文件">
+    <list default="true" id="7f64259d-3bf4-4c8b-8725-4c0a147ec082" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chaptor_02/arraylist.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/chaptor_02/arraylist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chaptor_02/linkedlist.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/chaptor_02/linkedlist.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,28 +14,47 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/data_structure$bitree_pre_search.coverage" NAME="bitree_pre_search Coverage Results" MODIFIED="1597659008632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chaptor_04" />
-    <SUITE FILE_PATH="coverage/data_structure$bitree_mid_search.coverage" NAME="bitree_mid_search Coverage Results" MODIFIED="1597659029872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chaptor_04" />
     <SUITE FILE_PATH="coverage/data_structure$bitree_after_search.coverage" NAME="bitree_after_search Coverage Results" MODIFIED="1597659063974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chaptor_04" />
     <SUITE FILE_PATH="coverage/data_structure$printn_02.coverage" NAME="printn_02 Coverage Results" MODIFIED="1593485769217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chaptor_01" />
     <SUITE FILE_PATH="coverage/data_structure$choose_sort.coverage" NAME="choose_sort Coverage Results" MODIFIED="1594266073942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chaptor_03" />
+    <SUITE FILE_PATH="coverage/data_structure$printn_01.coverage" NAME="printn_01 Coverage Results" MODIFIED="1593485635101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chaptor_01" />
+    <SUITE FILE_PATH="coverage/data_structure$bitree_mid_search.coverage" NAME="bitree_mid_search Coverage Results" MODIFIED="1597659029872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chaptor_04" />
     <SUITE FILE_PATH="coverage/data_structure$bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1594025149241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chaptor_03" />
     <SUITE FILE_PATH="coverage/data_structure$shell_sort.coverage" NAME="shell_sort Coverage Results" MODIFIED="1594543183741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chaptor_03" />
+    <SUITE FILE_PATH="coverage/data_structure$arraylist.coverage" NAME="arraylist Coverage Results" MODIFIED="1597733089391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chaptor_02" />
     <SUITE FILE_PATH="coverage/data_structure$insert_sort.coverage" NAME="insert_sort Coverage Results" MODIFIED="1594266055687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chaptor_03" />
     <SUITE FILE_PATH="coverage/data_structure$bitree_level_search.coverage" NAME="bitree_level_search Coverage Results" MODIFIED="1597659057171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chaptor_04" />
-    <SUITE FILE_PATH="coverage/data_structure$printn_01.coverage" NAME="printn_01 Coverage Results" MODIFIED="1593485635101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chaptor_01" />
     <SUITE FILE_PATH="coverage/data_structure$quick_sort.coverage" NAME="quick_sort Coverage Results" MODIFIED="1594025165680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chaptor_03" />
     <SUITE FILE_PATH="coverage/data_structure$merge_sort.coverage" NAME="merge_sort Coverage Results" MODIFIED="1594195501782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chaptor_03" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="150">
-                <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+              <first_editor relative-caret-position="345">
+                <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chaptor_02/arraylist.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chaptor_02/linkedlist.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -53,10 +73,12 @@
       <find>_l</find>
       <find>pre_search</find>
       <find>mid_search</find>
+      <find>DLinkList</find>
     </findStrings>
     <replaceStrings>
       <replace>data</replace>
       <replace>level_search</replace>
+      <replace>LinkedList</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -69,7 +91,6 @@
         <option value="$PROJECT_DIR$/src/chaptor_01/printn_02.py" />
         <option value="$PROJECT_DIR$/src/chaptor_01/__init__.py" />
         <option value="$PROJECT_DIR$/src/chaptor_04/binary_tree.py" />
-        <option value="$PROJECT_DIR$/src/chaptor_02/arraylist.py" />
         <option value="$PROJECT_DIR$/src/chaptor_03/__init__.py" />
         <option value="$PROJECT_DIR$/src/chaptor_02/stack.py" />
         <option value="$PROJECT_DIR$/src/chaptor_02/queue.py" />
@@ -87,14 +108,14 @@
         <option value="$PROJECT_DIR$/src/chaptor_04/__init__.py" />
         <option value="$PROJECT_DIR$/src/chaptor_02/__init__.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/chaptor_02/linkedlist.py" />
+        <option value="$PROJECT_DIR$/src/chaptor_02/arraylist.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="240" />
-    <option name="y" value="53" />
     <option name="width" value="1680" />
-    <option name="height" value="1027" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -176,7 +197,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.bitree_after_search">
+  <component name="RunManager" selected="Python.arraylist">
+    <configuration name="arraylist" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data-structure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/chaptor_02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/chaptor_02/arraylist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="bitree_after_search" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data-structure" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -265,35 +308,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="shell_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="data-structure" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/chaptor_03" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/chaptor_03/shell_sort.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.arraylist" />
         <item itemvalue="Python.bitree_after_search" />
         <item itemvalue="Python.bitree_level_search" />
         <item itemvalue="Python.bitree_mid_search" />
         <item itemvalue="Python.bitree_pre_search" />
-        <item itemvalue="Python.shell_sort" />
       </list>
     </recent_temporary>
   </component>
@@ -349,7 +370,9 @@
       <workItem from="1595488266200" duration="313000" />
       <workItem from="1597659001001" duration="1218000" />
       <workItem from="1597660838078" duration="419000" />
-      <workItem from="1597662223462" duration="92000" />
+      <workItem from="1597662223462" duration="377000" />
+      <workItem from="1597662935410" duration="1810000" />
+      <workItem from="1597727724519" duration="1473000" />
     </task>
     <task id="LOCAL-00001" summary="1，补充readme.md文件">
       <created>1597660780638</created>
@@ -358,22 +381,28 @@
       <option name="project" value="LOCAL" />
       <updated>1597660780639</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1，修改readme.md文件格式">
+      <created>1597662328436</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597662328436</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37547000" />
+    <option name="totallyTimeSpent" value="41115000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1799787" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32417583" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24257426" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24183674" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -382,7 +411,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3148515" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.31428573" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -396,7 +425,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1，补充readme.md文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="1，补充readme.md文件" />
+    <MESSAGE value="1，修改readme.md文件格式" />
+    <option name="LAST_COMMIT_MESSAGE" value="1，修改readme.md文件格式" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/__init__.py">
@@ -531,16 +561,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chaptor_02/linkedlist.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chaptor_02/arraylist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chaptor_02/queue.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -557,10 +577,24 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <first_editor relative-caret-position="345">
+            <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chaptor_02/linkedlist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chaptor_02/arraylist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
         </state>
       </provider>
     </entry>
